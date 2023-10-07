@@ -1,0 +1,9 @@
+Volvo;3000;123;20;true;carreta;1;C
+Mercedes;4000;150;10;true;cargaseca;2;C
+Scania;3500;135;75;false;baú;3;C
+Volkswagen Gol;35000;123456;4;true;gasolina;1;CA
+Ford Fiesta;29000;987654;4;true;etanol;2;CA
+Chevrolet Onix;38000;654321;4;true;flex;3;CA
+Honda CBR 1000RR;15000;123456;true;1000;disco;1;M
+Kawasaki Ninja 650;8000;987654;true;650;disco;2;M
+Yamaha YZF-R3;6000;654321;true;321;disco;3;M

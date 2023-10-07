@@ -1,0 +1,5 @@
+Ana Souza;76543210987;ana@email.com
+José Pereira;54321098765;jose@email.com
+Carla Rodrigues;32109876543;carla@email.com
+Pedro Alves;67890123456;pedro@email.com
+Lúcia Martins;89012345678;lucia@email.com
